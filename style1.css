@@ -1,0 +1,17 @@
+.footer1{
+    text-align: center;
+    background-color: #000000;
+    color:#FFF;
+}
+
+#header-wrapper{
+    overflow: hidden;
+	background-image: url("images/cover.jpg");
+    background-size:1905px 800px;
+    background-position:center;
+}
+
+#menu li:hover a, #menu li.active a, #menu li.active span{
+	background: #FFF;
+	color: #000000;
+}
